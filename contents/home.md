@@ -15,3 +15,19 @@ B.E., Data Science and Big Data Technology, China University of Mining and Techn
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+
+
+%注释1
+[/注释2/]
+
+Latex测试
+$$H^1(F,\mathbb{Z})=0$$
+
+表格
+|周数|周一|周二|周三|周四|周五|周六|周日|总结|
+|---|---|---|---|---|---|---|---|---|
+|第一周|√|√|√|√|√|/|/|按时完成|
+|第二周|√|√|×|×|×|/|/|进行中|
+|第三周|||||||
+|第四周|||||||
+
