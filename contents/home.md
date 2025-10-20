@@ -1,24 +1,23 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### Time
+2026 July 1-5
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### Conference Organizers
 
-#### Contact
-
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+| :----: | :----: |
+|Feng Hao      | 山东大学 |
+|Yongqiang Liu | 中科大   |
+|Botong Wang | University of Wisconsin-Madison |
 
 
+#### Conference Venue
+威海金沙滩酒店
+山海间宾馆
 
-%注释1
-[/注释2/]
+
+
+
 
 Latex测试
 $$H^1(F,\mathbb{Z})=0$$
