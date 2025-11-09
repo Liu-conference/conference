@@ -155,14 +155,17 @@ https://surl.amap.com/buhcKhf117Bm
     <tr>
         <td>Feng Hao</td>
         <td>Shandong University </td>
+        <td>feng.hao@sdu.edu.cn</td>
     </tr>
     <tr>
         <td>Yongqiang Liu </td>
         <td>University of Science and Technology of China </td>
+        <td>liuyq@ustc.edu.cn</td>
     </tr>
     <tr>
         <td>Botong Wang </td>
         <td>University of Wisconsin-Madison </td>
+        <td>wang@math.wisc.edu</td>
     </tr>
 </table>
 
