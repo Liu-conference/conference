@@ -65,10 +65,6 @@ https://surl.amap.com/buhcKhf117Bm
 <table style="width:100%">
      <tbody align="center" valign="center">
     <tr>
-        <td>Donu Arapura (TBA)</td>
-        <td>Purdue University</td>
-    </tr>
-    <tr>
         <td>Patrick Brosnan</td>
         <td>University of Maryland</td>
     </tr>
