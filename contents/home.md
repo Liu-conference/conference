@@ -117,10 +117,6 @@ https://surl.amap.com/buhcKhf117Bm
         <td>University of Science and Technology of China</td>
     </tr>
     <tr>
-        <td>Yilong Zhang </td>
-        <td>University of Georgia</td>
-    </tr>
-    <tr>
         <td>Zheng Zhang</td>
         <td>ShanghaiTech University</td>
     </tr>
