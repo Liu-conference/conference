@@ -23,11 +23,11 @@ Please allow enough time to obtain a visa before your visit.
 
 ###### &nbsp;
 #### Conference Hotel
-威海金沙滩酒店 
+威海金海湾丽呈华廷酒店
 
-https://maps.app.goo.gl/LcAVCFjPtjchFfeRA
+https://maps.app.goo.gl/Du9HMbEgfic1h5qFA
 
-https://surl.amap.com/3fQHewjPY6AF
+https://surl.amap.com/1VZU6b8K5Du
 
 山东大学威海校区文华苑(山海间酒店)
 
