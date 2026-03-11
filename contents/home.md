@@ -29,12 +29,6 @@ https://maps.app.goo.gl/Du9HMbEgfic1h5qFA
 
 https://surl.amap.com/1VZU6b8K5Du
 
-山东大学威海校区文华苑(山海间酒店)
-
-https://maps.app.goo.gl/p2r6zZW485Vbh34V8
-
-https://surl.amap.com/buhcKhf117Bm
-
 
 #### Speakers
 
