@@ -23,12 +23,13 @@ Please allow enough time to obtain a visa before your visit.
 
 ###### &nbsp;
 #### Conference Hotel
-威海金海湾丽呈华廷酒店
+Golden Bay Hotel（山东健康金海湾国际饭店）
 
 https://maps.app.goo.gl/Du9HMbEgfic1h5qFA
 
-https://surl.amap.com/1VZU6b8K5Du
+https://surl.amap.com/7fpCwE61rdic
 
+https://j.map.baidu.com/a6/D8dM
 
 #### Speakers
 
