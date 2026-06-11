@@ -76,6 +76,15 @@
 </div>
 
 <div class="speaker">
+  <h4>Adrian Langer
+  </h4>
+  <h5 class="title">A Riemann-Hilbert correspondence in positive characteristic and its applications
+  </h5>
+  <h5 class="abstract">The Riemann-Hilbert correspondence for proper complex, possibly singular, varieties can be interpreted as an equivalence between the category of representations of the topological fundamental group  of the analytification of X and the category of crsytals on so called stratified site of X. In this talk, I will explain how this correspondence can be generalized to positive characteristic. I will then discuss several properties familiar from the complex setting and show that they continue to hold in this context. As an application, I will prove that simply connected, proper, normal varieties in positive characteristic admit no nontrivial F-divided bundles. This generalizes an earlier result of H. Esnault and V. Mehta concerning smooth projective varieties, and settles Gieseker's conjecture in a more general setting. Most of this work is joint with Lei Zhang (SYSU, Zhuhai).
+  </h5>
+</div>
+
+<div class="speaker">
   <h4>Quy Thuong Le
   </h4>
   <h5 class="title">Equivariant motivic Integration for formal schemes and applications to singularities
@@ -94,6 +103,16 @@
 </div>
 
 <div class="speaker">
+  <h4>Ruiran Sun
+  </h4>
+  <h5 class="title">Rigidity problems and finiteness results on moduli spaces of polarized manifolds
+  </h5>
+  <h5 class="abstract">Rigidity of holomorphic maps into Shimura varieties or moduli spaces of polarized manifolds is a topic of interest from several perspectives, for instance, the role it plays in the geometric Shafarevich conjecture. In this talk, we discuss the distribution of non-rigid loci (i.e., the images of non-rigid maps) in moduli space, present a new rigidity criterion for families of Calabi–Yau manifolds, and establish various versions of finiteness results. This is based on joint work with Ke Chen, Tianzhi Hu, Chenglong Yu, and Kang Zuo.
+
+  </h5>
+</div>
+
+<div class="speaker">
   <h4>Wim Veys
   </h4>
   <h5 class="title">Dicritical divisors and hypercurvettes 
@@ -108,6 +127,15 @@
   <h5 class="title">On the image of a certain Prym map
   </h5>
   <h5 class="abstract">Torelli problems for ramified Prym maps have been investigated in recent years by Marcucci-Pirola, Marcucci-Naranjo, Naranjo-Ortega and Ikeda. In particular, there is a Prym map which is both injective and relates moduli spaces of the same dimensions, namely the Prym map for double covers of genus 1 curves branched at six points. In this talk, we will give a characterization of the image of this Prym map. This is joint work in progress with S. Casalaina-Martin, M. Lahoz and J.C. Naranjo.
+  </h5>
+</div>
+
+<div class="speaker">
+  <h4>Zhiwei Zheng
+  </h4>
+  <h5 class="title">Automorphism Groups of Cubic Fourfolds：An Overview and New Results
+  </h5>
+  <h5 class="abstract">In 2019 Laza and I have classified all possible symplectic automorphism groups (totally 34) of smooth cubic 4-folds. In 2023 Yang-Yu-Zhu have classified finite groups admitting faithful action on smooth cubic fourfolds. A problem still open is to determine all possible groups $Aut(X)$ for smooth cubic fourfolds X, and characterize the actions of $Aut(X)$ on $P^5$ and $H^4(X)$. In this talk, I will introduce and compare the two main approaches to such problems: (a) the geometric approach: directly deal with invariant polynomials under group actions (b) the Hodge theoretic approach: using global Torelli and translate the problem to lattice calculations. Then I will discuss new results via a combination of the two approaches. For example, we find all possibilities of $[Aut(X):Aut^s(X)]$ for most given $Aut^s(X)$. This talk is based on joint works with Jie Fu and Shihao Wang.
   </h5>
 </div>
 
