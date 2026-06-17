@@ -94,6 +94,24 @@
 </div>
 
 <div class="speaker">
+  <h4>Zhiyuan Li
+  </h4>
+  <h5 class="title">Filtrations and Bloch’s conjecture for zero cycles of hyperkähler varieties of known types
+  </h5>
+  <h5 class="abstract">In this talk, I will discuss Bloch’s conjecture for birational automorphisms of hyperkähler varieties of K3^n type and generalized Kummer type. I will explain the underlying philosophy in two parts. First, how to reduce the problem to Bloch’s conjecture for equivalences between twisted surfaces. Second, the construction of the “correct” Beauville–Voisin filtration on zero cycles for these hyperkähler varieties. This philosophy works for the hyperkähler varieties arising from Bridgeland moduli spaces. The talk is based on joint works with Z. Chen, X. Yu, R. Zhang and X. Zhang.
+  </h5>
+</div>
+
+<div class="speaker">
+  <h4>Xin Lv
+  </h4>
+  <h5 class="title">Abelian automorphism groups of surfaces of general type
+  </h5>
+  <h5 class="abstract">Let $G$ be an abelian automorphism group of a surface $S$ of general type. We will report the sharp upper bound on the order of $G$ depending on the first Chern number of $S$. We also give a characterization on the surfaces reaching the upper bound. This is based on joint works with Z.M. Guo, S.L. Tan and K. Zuo.
+  </h5>
+</div>
+
+<div class="speaker">
   <h4>Laurentiu Maxim
   </h4>
   <h5 class="title">A conjectural characteristic-class version of the Hodge index theorem for singular complex algebraic varieties
@@ -142,9 +160,9 @@
 <div class="speaker">
   <h4>Kang Zuo
   </h4>
-  <h5 class="title">
+  <h5 class="title">Isomonodromic Deformation of Higgs Bundles and a Characterization of the Non-Abelian Noether–Lefschetz Locus
   </h5>
-  <h5 class="abstract">
+  <h5 class="abstract">We study the non-abelian Noether–Lefschetz locus for families of projective manifolds. Via the non-abelian Hodge correspondence, the isomonodromic deformation of an initial polystable Higgs bundle with trivial Chern classes on the fiber over a fixed reference point gives rise to a real analytic family of Higgs bundles. The non-abelian Noether–Lefschetz locus consists of points at which the isomonodromically deformed Higgs bundle admits a graded structure. We answer affirmatively a question of Esnault and Kerz by showing that this locus coincides with the maximal complex analytic subvariety on which the isomonodromic deformation becomes holomorphic. The proof uses higher-order deformation classes and obstruction theory, yielding a local characterization of the non-abelian Noether–Lefschetz locus. Joint work with T.Z. Hu, R.R. Sun, and J.B. Yang.
   </h5>
 </div>
 
