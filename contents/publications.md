@@ -51,9 +51,9 @@
 <div class="speaker">
   <h4>Fabrizio Catanese
   </h4>
-  <h5 class="title">
+  <h5 class="title"> Irrational pencils, varieties isogenous to a product and the action of the absolute Galois group GAL on the connected components of moduli spaces
   </h5>
-  <h5 class="abstract">
+  <h5 class="abstract">I will first survey older and very recent results concerning the existence of an irrational pencil on a Kaehler manifold, from the classical results of Castelnuovo- de Franchis,  Siu-Catanese-Beauville,  Green-Lazarsfeld, to recent extensions using the profinite completion of the fundamental group. I shall then illustrate the application to VIP ’s = Varieties isogenous to a product, and explain then how this class of varieties allows to see a faithful action of GAL  on the components of moduli spaces, indeed by the action on the  fundamental groups of VIP’s.
   </h5>
 </div>
 
