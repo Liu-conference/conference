@@ -33,9 +33,13 @@
 <div class="speaker">
   <h4>Patrick Brosnan
   </h4>
-  <h5 class="title">
+  <h5 class="title">The geometry of Hessenberg and Lusztig varieties
   </h5>
-  <h5 class="abstract">
+  <h5 class="abstract">Lusztig varieties are subvarieties of flag varieties introduced by Lusztig for applications to the character theory of reductive groups over finite fields.  They are defined in terms of an element w of the Weyl group of a reductive group G and an element s of G, giving a (not generally flat) family of varieties Y(w) over G. They are closely related to Hessenberg varieties, which fiber instead over the Lie algebra of G, and to Deligne-Lusztig varieties. 
+  I will explain work on the geometry of these varieties. In particular, I'll try to cover the following topics:
+  - Joint work with Escobar, Hong, D. Lee, E. Lee, Mellit and Sommers, showing that the Hessenberg varieties attached to a regular semisimple can have nontrivial deformations, a fact which is somewhat surprising as the varieties involved are all cellular. 
+  - Joint work with Hong and D. Lee on the singularities of closed Lusztig varieties and the affineness of open Lusztig and Deligne-Lusztig varieties.
+
   </h5>
 </div>
 
@@ -69,9 +73,9 @@
 <div class="speaker">
   <h4>Zhi Jiang
   </h4>
-  <h5 class="title">On irregular 3folds of general type with small canonical volumes
+  <h5 class="title">On irregular 3 folds of general type with small canonical volumes
   </h5>
-  <h5 class="abstract">The canonical volume of a 3fold of general type is usually not an integer due to the singularities of its minimal model. Hence it is a very difficult open question to determine the minimal canonical volume of 3folds of general type, which is a positive rational number thanks to the boundedness result of Hacon-McKernan, Takayama, and Tsuji. In this talk, we discuss the possible minimal canonical volume of irregular 3folds of general type. This is a joint work in progress with Jungkai Chen, Yong Hu, and Tong Zhang.
+  <h5 class="abstract">The canonical volume of a 3 fold of general type is usually not an integer due to the singularities of its minimal model. Hence it is a very difficult open question to determine the minimal canonical volume of 3 folds of general type, which is a positive rational number thanks to the boundedness result of Hacon-McKernan, Takayama, and Tsuji. In this talk, we discuss the possible minimal canonical volume of irregular 3 folds of general type. This is a joint work in progress with Jungkai Chen, Yong Hu, and Tong Zhang.
   </h5>
 </div>
 
@@ -162,7 +166,10 @@
   </h4>
   <h5 class="title">Isomonodromic Deformation of Higgs Bundles and a Characterization of the Non-Abelian Noether–Lefschetz Locus
   </h5>
-  <h5 class="abstract">We study the non-abelian Noether–Lefschetz locus for families of projective manifolds. Via the non-abelian Hodge correspondence, the isomonodromic deformation of an initial polystable Higgs bundle with trivial Chern classes on the fiber over a fixed reference point gives rise to a real analytic family of Higgs bundles. The non-abelian Noether–Lefschetz locus consists of points at which the isomonodromically deformed Higgs bundle admits a graded structure. We answer affirmatively a question of Esnault and Kerz by showing that this locus coincides with the maximal complex analytic subvariety on which the isomonodromic deformation becomes holomorphic. The proof uses higher-order deformation classes and obstruction theory, yielding a local characterization of the non-abelian Noether–Lefschetz locus. Joint work with T.Z. Hu, R.R. Sun, and J.B. Yang.
+  <h5 class="abstract">We study the non-abelian Noether–Lefschetz locus in families of smooth projective manifolds. Via the non-abelian Hodge correspondence, the isomonodromic deformation of a polystable Higgs bundle with trivial Chern classes on the fiber over a reference point gives rise to a real-analytic family of Higgs bundles. The non-abelian Noether–Lefschetz locus consists of those points at which the isomonodromically deformed Higgs bundle admits a graded structure. 
+  We give an affirmative answer to a question of Esnault and Kerz by proving that this locus coincides with the maximal complex analytic subvariety along which the isomonodromic deformation is holomorphic. We present two approaches to the proof. The first is based on higher-order obstruction theory, comparing the higher-order obstructions to the holomorphicity of the isomonodromic deformation with the higher-order obstructions to lifting the graded structure. The second approach relies on establishing the commutativity between the Hitchin–Simpson $S^1$-action on Higgs bundles and isomonodromic deformation along holomorphic directions. 
+  Finally, we propose a p-adic analogue of this characterization. In this setting, we conjecture that the p-adic Noether–Lefschetz locus can be characterized in terms of the interaction between p-adic isomonodromic deformations and the action of the cyclotomic character on p-adic Higgs fields, twisted by suitable elements of Fontaine’s period rings. 
+  This is joint work with T. Z. Hu, R. R. Sun, and J. B. Yang.
   </h5>
 </div>
 
