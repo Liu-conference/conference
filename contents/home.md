@@ -1,4 +1,14 @@
 ###### &nbsp;
+
+##### Slides download 
+https://raw.githubusercontent.com/Liu-conference/Weihai-workshop-202607/main/Weihai%20Workshop%20Slides.zip
+<br>
+
+##### Group photo:
+<img src="static/assets/img/group_photo.jpg" alt="Group photo" >
+
+<br><br><br>
+
 #### Dates 2026 July 1-5
 
 
