@@ -1,10 +1,15 @@
 ###### &nbsp;
 
-##### Slides download 
-https://raw.githubusercontent.com/Liu-conference/Weihai-workshop-202607/main/Weihai%20Workshop%20Slides.zip
+##### Slides download: 
+GitHub download link: https://raw.githubusercontent.com/Liu-conference/Weihai-workshop-202607/main/Weihai%20Workshop%20Slides.zip
 <br>
+123云盘 download link: https://1837868286.share.123pan.cn/123pan/zn2wTd-vC1d3
 
 ##### Group photo:
+GitHub download link: https://raw.githubusercontent.com/Liu-conference/Weihai-workshop-202607/main/group_photo.jpg
+<br>
+123云盘 download link: https://1837868286.share.123pan.cn/123pan/zn2wTd-vC1d3
+<br>
 <img src="static/assets/img/group_photo.jpg" alt="Group photo" >
 
 <br><br><br>
